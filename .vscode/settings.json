@@ -1,4 +1,6 @@
 {
-    "editor.autoClosingBrackets": "always",
-    "editor.wordWrap": "on"
+    "editor.wordWrapColumn": 80,
+    "editor.wordWrap": "off",
+    "markdown.preview.breaks": false,
+    "editor.wrappingIndent": "same"
 }
